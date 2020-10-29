@@ -14,7 +14,7 @@ class App extends React.Component {
     super()
     this.state = {
        recipes : recipes,
-       searchInput: ""
+       searchInput: "all"
     }
 }
 
