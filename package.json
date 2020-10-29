@@ -2,7 +2,7 @@
   "name": "gmcb-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Wrecket/gmcb-react-conversion-new/",
+  "homepage": "https://github.com/Wrecket/grandmascookbook.co.uk",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
