@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Wrecket/grandmascookbook.co.uk/static/css/main.7d01d949.chunk.css",
+    "main.js": "/Wrecket/grandmascookbook.co.uk/static/js/main.1867d948.chunk.js",
+    "main.js.map": "/Wrecket/grandmascookbook.co.uk/static/js/main.1867d948.chunk.js.map",
+    "runtime-main.js": "/Wrecket/grandmascookbook.co.uk/static/js/runtime-main.1095f26e.js",
+    "runtime-main.js.map": "/Wrecket/grandmascookbook.co.uk/static/js/runtime-main.1095f26e.js.map",
+    "static/css/2.038644eb.chunk.css": "/Wrecket/grandmascookbook.co.uk/static/css/2.038644eb.chunk.css",
+    "static/js/2.5e3dcdf8.chunk.js": "/Wrecket/grandmascookbook.co.uk/static/js/2.5e3dcdf8.chunk.js",
+    "static/js/2.5e3dcdf8.chunk.js.map": "/Wrecket/grandmascookbook.co.uk/static/js/2.5e3dcdf8.chunk.js.map",
+    "index.html": "/Wrecket/grandmascookbook.co.uk/index.html",
+    "precache-manifest.d0dfc07c4a05e2dc9ceaed8483ee329e.js": "/Wrecket/grandmascookbook.co.uk/precache-manifest.d0dfc07c4a05e2dc9ceaed8483ee329e.js",
+    "service-worker.js": "/Wrecket/grandmascookbook.co.uk/service-worker.js",
+    "static/css/2.038644eb.chunk.css.map": "/Wrecket/grandmascookbook.co.uk/static/css/2.038644eb.chunk.css.map",
+    "static/css/main.7d01d949.chunk.css.map": "/Wrecket/grandmascookbook.co.uk/static/css/main.7d01d949.chunk.css.map",
+    "static/js/2.5e3dcdf8.chunk.js.LICENSE.txt": "/Wrecket/grandmascookbook.co.uk/static/js/2.5e3dcdf8.chunk.js.LICENSE.txt",
+    "static/media/tab.png": "/Wrecket/grandmascookbook.co.uk/static/media/tab.d8eebce9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1095f26e.js",
+    "static/css/2.038644eb.chunk.css",
+    "static/js/2.5e3dcdf8.chunk.js",
+    "static/css/main.7d01d949.chunk.css",
+    "static/js/main.1867d948.chunk.js"
+  ]
+}
