@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3056e971d316574f8cb5f1e303b361d",
+    "revision": "c47308d5f281cfe41159c2602cb7d04f",
     "url": "/grandmascookbook.co.uk/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grandmascookbook.co.uk/static/css/2.038644eb.chunk.css"
   },
   {
-    "revision": "754c7f65747b2190ee6c",
-    "url": "/grandmascookbook.co.uk/static/css/main.7d01d949.chunk.css"
+    "revision": "08c17ba7c91feba4ad44",
+    "url": "/grandmascookbook.co.uk/static/css/main.78ddda3c.chunk.css"
   },
   {
     "revision": "5da9a65118ed7969af6d",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grandmascookbook.co.uk/static/js/2.5e3dcdf8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "754c7f65747b2190ee6c",
+    "revision": "08c17ba7c91feba4ad44",
     "url": "/grandmascookbook.co.uk/static/js/main.68d31b3f.chunk.js"
   },
   {
