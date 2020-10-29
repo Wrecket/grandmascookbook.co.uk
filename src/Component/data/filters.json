@@ -1,0 +1,34 @@
+  [ 
+   
+   {
+        "id": 1,
+        "name" : "Mains",
+        "image": "https://images.pexels.com/photos/2116094/pexels-photo-2116094.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "filter": "mains"
+    },
+    {
+        "id": 2,
+        "name" : "Sides",
+        "image": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "filter": "sides"
+    },
+    {
+        "id": 3,
+        "name": "Desserts",
+        "image": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "filter": "desserts"
+    },
+    {
+        "id": 4,
+        "name": "Starters",
+        "image": "https://images.pexels.com/photos/4173178/pexels-photo-4173178.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "filter": "starters"
+    },
+    {
+        "id": 5,
+        "name": "Cakes",
+        "image" : "https://images.pexels.com/photos/1120970/pexels-photo-1120970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "filter": "cakes"
+    }
+
+]

@@ -1,0 +1,223 @@
+body {
+    scroll-behavior: smooth;
+}
+
+.welcome {
+    background-color: rgba(212, 212, 212, 0.63);
+    background-attachment: fixed;
+    background-size: contain;
+    height: 19rem;
+    position: absolute;
+    z-index: 100;
+
+}
+
+.welcome__menu-box {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    height: auto;
+}
+
+.recipe__inputs {
+    padding: 0;
+    position: static;
+    z-index: 50;
+}
+
+.welcome__new-recipe {
+  color:rgb(145, 109, 85);
+  font-size: 1rem;
+  border-bottom: solid 1px rgb(145, 109, 85) ;
+} 
+
+.welcome__new-recipe-box {
+    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+  } 
+  
+.title-wrap {
+    padding-top: .5rem;
+    width: 80%;
+    margin-left: 0;
+}
+
+.welcome__title-wrap {
+
+    padding: 1rem 1rem 0 1rem;
+}
+
+.padder {
+    height: 50px;
+}
+
+.btn {
+    margin-right: 1rem;
+    width: 6.7rem;
+}
+
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active, .btn-secondary.active, .open>.dropdown-toggle.btn-secondary {
+    color: #fff;
+    background-color: rgb(136, 156, 136);
+    opacity: 0.8;
+}
+
+.check {
+    margin-right: 1rem;
+    margin-top: 1rem;
+    border: none;
+    opacity: 0.5;
+    transition: 1.5s all;
+}
+
+.welcome__menu-box-outer {
+    background-color: rgb(78, 78, 78);
+    height: 16rem !important;
+    width: 16rem !important;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    position: relative;
+    transition: .5s all;
+}
+
+.welcome__menu-box-outer:hover {
+    transform: scale(1.05);
+    background-color:   rgb(136, 156, 136);
+}
+
+.welcome__menu-name-wrap {
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.295);
+    height:30%;
+    position: absolute;
+    bottom: 0;
+}
+
+.welcome__menu-box-inner {
+    background-color: rgb(255, 255, 255);
+    height: 15.2rem !important;
+    width: 15.2rem !important;
+    position: absolute;
+    top: .4rem;
+    left: .4rem;
+    border-top-right-radius: 40%;
+    border: 10px white solid;
+    overflow: hidden;
+}
+
+.welcome__menu-box-img {
+    height: 100%;
+}
+
+.welcome__menu-box-img-text {
+    position: absolute;
+    bottom: 0;
+    left: 1rem;
+    font-size: 1rem;
+    color: white;
+}
+
+@media (max-width: 550px) {
+    .welcome__menu-box {
+        justify-content: center;
+    }
+
+    .welcome__menu-box-outer {
+        background-color: rgb(214, 194, 168);
+        height: 16rem !important;
+        width: 16rem !important;
+        margin-right: 3rem;
+        margin-top: 2rem;
+        position: relative;
+    }
+    
+    .welcome__menu-box-inner {
+        background-color: rgb(255, 255, 255);
+        height: 15.2rem !important;
+        width: 15.2rem !important;
+        position: absolute;
+        top: .4rem;
+        left: .4rem;
+        border-top-right-radius: 40%;
+        border: 10px white solid;
+        overflow: hidden;
+    }
+    
+    .welcome__menu-box-img {
+        height: 100%;
+    }
+    
+    .welcome__menu-box-img-text {
+        position: absolute;
+        bottom: 0;
+        left: 1rem;
+        font-size: 3rem;
+        color: white;
+    }
+}
+
+@media (max-width: 1400px) {
+    .welcome__flexwrap {
+        display: block!important;
+    }
+    .title-wrap {
+        width: 100%;
+        padding-right: 2rem;
+    }
+    .welcome {
+        height: 150%;
+    }
+    
+}
+
+@media (max-width: 1024px) {
+    .welcome__flexwrap {
+        display: block!important;
+    }
+    .title-wrap {
+        width: 100%;
+        padding-right: 2rem;
+    }
+    .welcome {
+     height: 20rem;
+    }
+    
+}
+
+@media (max-width: 800px) {
+    .welcome__flexwrap {
+        display: block!important;
+    }
+    .title-wrap {
+        width: 90%;
+        padding-left: 3rem;
+    }
+    
+}
+
+@media (max-width: 550px) {
+      
+    .title-wrap {
+        width: 100%;
+    }
+
+    .welcome {
+        background-color: rgba(212, 212, 212, 0.63);
+        background-attachment: fixed;
+        background-size: contain;
+        height: auto;
+        position: static;
+        z-index: 100;
+    
+    }
+
+    .phantom-input2 {
+        display: none;
+    }
+
+    .navbar__logo {
+        width: 60%;
+    }
+    
+}

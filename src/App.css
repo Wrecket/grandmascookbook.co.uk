@@ -1,0 +1,15 @@
+.html {
+  height: 100%;
+}
+
+.font {
+	font-family: 'Playfair Display', serif;
+}
+
+.shadow {
+  box-shadow: 0 0 20px 1px rgba(136, 135, 135, 0.699);
+}
+
+.brown {
+  color: rgb(153, 119, 91);
+}

@@ -1,0 +1,18 @@
+.Login {
+    margin-top: 10%;
+    background-color: white;
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.Login__wrap {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+    z-index: 9;
+}

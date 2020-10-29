@@ -1,0 +1,25 @@
+.footer__box {
+    height: 3rem;
+    background-color: rgb(53, 51, 48);
+    position: relative;
+}
+
+.footer__text {
+    position: absolute;
+    bottom: 0;
+    right: 1rem;
+    font-weight: bold;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+@media (max-width: 550px) {
+      
+    
+}

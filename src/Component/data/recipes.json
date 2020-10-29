@@ -1,0 +1,160 @@
+[
+    {
+        "id" : 0,
+        "name" : "Sticky Ginger Cake",
+        "ingredients" : ["50g/20oz Butter", "200g/8oz Stoned dates", "300g/10oz Dark muscado sugar", "2 eggs", "50g/2oz Root ginger grated (2tsp)", "Grated zest of a lemon", "200g/8oz SR Flour", "1 Bramley apple (9oz) peeled and chopped"], 
+        "recipe"      : ["Butter and line a 20cm round cake tin", "Put dates in bowl and cover with boiling water", "Heat butter in a pan and stir in the sugar. Allow to cool slightly", "Beat in the eggs, ginger and lemon zest, then drain the dates, add to pan and mix well", "Stir in the flour then apples", "Spoon into cake tin, put cake on baking tray to stop the base browning too much.", "cook on gas 4/160 deg for 1 1/2 hours. If not cooked, cover with foil and cook for 15-30 mins more.", "Allow to cool in tin, then melt white chocolate drizzle over cake."],
+        "image"       : "https://images.pexels.com/photos/4040806/pexels-photo-4040806.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "90",
+        "temperature": "Gas 4/160 Deg",
+        "category" : "cakes, all"
+    },
+
+    {
+        "id" : 1,
+        "name"        : "Carrot Cake",
+        "ingredients" : ["9oz SR flour", "2 tsp Cinnamon", "8oz Brown sugar - soft or demerara", "4oz Coconut", "6 oz Sultanas", "2 eggs", "1/2 tsp Vanilla", "4oz Butter/Margerine", "4oz Veg oil, 4oz Grated carrots" ],
+        "recipe"      : ["Preheat oven 160 deg/gas 4", "Mix all dry ingredients together", "Beat the eggs, vanilla, butter/margerine, and veg oil together", "Add dry ingredients", "Add grated carrots", "Put in tin and sprinkle with demerara sugar", "Cook for 1 to 1 1/2 hours"], 
+        "image"       : "https://images.pexels.com/photos/963755/pexels-photo-963755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "60/90 mins",
+        "temperature": "Gas 4/160 Deg",
+        "category" : "cakes, all"
+    },
+
+    {
+        "id" : 2,
+        "name"       : "Pineapple Cake",
+        "ingredients" : ["1/2 Cup of butter, softened", "1 Cup or sugar", "1/4 tsp Sale", "1/4 tsp Bicarbonate of soda", "2 eggs", "1 1/2 Cups of flour", "1/4 Cup of crushed pineapple, well drained"],
+        "recipe"      : ["Preheat oven to gas 4", "Mix together butter, sugar and eggs in a large bowl.", "Beat in flour, bicarbonate of soda and salt.", "Stir in pineapple.", "Spread into a 9x9 square tin for bars, or into cupcake shells.", "Cook gas 4 for 40/45 mins.", "Drizzle with lemon icing."],
+        "image"       : "https://images.pexels.com/photos/1161547/pexels-photo-1161547.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "45 mins",
+        "temperature": "Gas 4/160 Deg",
+        "category" : "cakes, all"
+    },
+
+    {
+        "id" : 3,
+        "name"        : "Iced Cream Buns",
+        "ingredients" : ["2 tsp or 17g Pack dried yeast", "4 floz Warm water", "2 1/2 oz Sugar", "4 floz Warm milk", "2 1/2 oz Butter melted (weight first)", "1 tsp Salt", "1 Egg, slightly beaten", "20 oz Bread flour"],
+        "recipe"      : ["Put flour in stand mixer bowl with yeast on one side, salt on the other", "Mix together milk, egg, melted butter and 3 oz of warm water", "Add sugar to flour and yeast then mix for a few seconds", "Add the liquid - might need a litle more warm water", "Put mixer on for 3 minutes, adding a little more water if needed", "Put in large greased bowl and leave to double in size", "Cut dough into about 15 pieces and place onto a greased baking tray then leave to double in size", "Cook in preheated oven, 180 deg/Gas 4 for 20 mins then add plain iced glaze on top"],
+        "image"       : "https://images.pexels.com/photos/1055271/pexels-photo-1055271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "20 mins",
+        "temperature": "Gas 4/180 Deg",
+        "category" : "desserts, all"
+    },
+
+    {
+        "id" : 4,
+        "name"        : "Sticky Toffee Pudding",
+        "ingredients" : ["225g Dates", "175ml Boiling water", "1tsp Vanilla", "1 tsp Bi carbonate of soda", "175g S.R Flour", "2 Eggs", "85g Butter", "100ml Milk", "140g demorara sugar", "140g demorara sugar", "-------------", "Toffee Sauce", "-------------", "175kg Dark brown sugar", "50g Butter", "225ml Double cream", "1 tbsp Black treacle"],
+        "recipe"      : ["Soak dates in boiling water.", "Mix flour and Bicarbonate of soda.", "Beat eggs.", "Beat butter and sugar until creamy, then add eggs a little bit at a time.", "stir in treacle then fold in 1/3 of the flour, 1/2 the milk, then repeat until used.", "Stir in soaked dates *note* may look curdled (it isn't)", "Spoon into mini pudding basins.", "Cook gas 4 for 20 - 25 mins.", "-------------", "Toffee Sauce", "-------------", "Put butter and sugar in a pan with 1/2 the cream and bring it to boil", "Stir until sugar has dissolved, then stir in treacle and bubble for a few minutes.", "Take off heat and beat in rest of cream."],
+        "recipe2"     : [],
+        "image"       : "https://images.pexels.com/photos/3611496/pexels-photo-3611496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "25 mins",
+        "temperature": "Gas 4/180 Deg",
+        "category" : "desserts, all"
+        
+    },
+
+    {
+        "id" : 5,
+        "name"        : "Crusty Puff Pies",
+        "ingredients" : ["150g Button mushrooms", "4 Skinless cooked chicken breast", "100g Cooked ham", "350g/12oz Freshly made cheese sauce", "1 Onion chopped", "300g Puff pastry", "2 tbsp Milk"],
+        "recipe"      : ["Thickly slice mushroom then fry in butter with the onion", "Cut cooked chicken into chunks", "Roughly cut ham", "Pour the cheese sauce over the mushrooms, chicken, ham and (placeholder) then mix well.", "Make pies using puff pastry and fill", "Cook on gas 6 for 15 minutes or until ready."],
+        "image"       : "https://images.pexels.com/photos/4408551/pexels-photo-4408551.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "15 mins",
+        "temperature" : "Gas 6/200 Deg",
+        "category"    : "mains, all"
+    },
+
+    {
+        "id" : 6,
+        "name"        : "Wild Mushroom Wafer",
+        "ingredients" : ["3oz Butter/Margerine", "500g Puff pastry", "3oz Grated parmesan", "8oz Chopped onions", "1lb Mixed mushrooms", "1/4pt Wine", "3/4pt Veg or chicken stock", "£1/2 pt double cream"],
+        "recipe"      : ["Roll out pastry to 9' x 13' then cut into rounds.", "Brush rounds with melted butter and sprinkle with cheese, then chill for 30 mins.", "Bake gas 7 for 15 mins but do not crowd. cool, then split into two", "Heat remaining butter, cook onions until soft then add mushrooms. cook for 5 mins then add wine and stock, then bring to boil.", "Remove mushrooms.", "Stir in cream and bring to boil, let bubble for 20 mins until syrupy, season to taste.", "Return mushrooms to pan  and warm through, then spoon onto pastry base and put top on."],
+        "image"       : "https://images.pexels.com/photos/757292/pexels-photo-757292.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time"       : "30 mins",
+        "temperature" : "N/A",
+        "category"    : "starters, all" 
+    },
+
+    {
+        "id" : 7,
+        "name"        : "Piri Piri Chicken Sauce",
+        "ingredients" : ["70ml veg oil", "70ml White wine vinegar", "1/2 Large pepper chopped", "2 Garlic cloves", "3-4 Hot chillies with seed sin, chopped", "1 tsp salt", "1/2 tsp oregano", "Juice of half a lemon"],
+        "recipe"      : ["Chop roughly, put all in saucepan", "Bring to simmer and cook for 20 minutes", "Blend all into smooth sauce with hand blener"],
+        "image"       : "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time"        : "20 mins",
+        "temperature" : "N/A",
+        "category"    : "mains, all" 
+    },
+
+    {
+        "id" : 8,
+        "name"        : "Creamy Mushroom Pasta",
+        "ingredients" : ["2 tbsp Butter", "8oz Mushrooms", "2 Cloves of garlic", "1/3 cup White wine", "1 cup Single cream", "1/2 Pint Vegtable stock (1 Vegtable stock cube)", "1 tbsp Balsamic vinegar", "Salt and pepper to taste", "2/3 Pot mascarpone", "8oz Pasta of choice (140g for 2 people)"],
+        "recipe"      : ["Whilst pasta is cooking, melt butter and garlic then combine with mushrooms. (5 - 8 mins)", "Add wine, cream, veg stock, balsamic vinegar, mascapone, and bring to boil.", "Leave to simmer for a few minutes until sauce has thickened.", "Add salt and pepper to taste.", "Pour over cooked pasta then sprinle with cheese (if needed)", "Can also add 1/2 jar of sund ried tomatoes to thicken sauce with flour."],
+        "image"       : "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "20 mins",
+        "temperature": "N/A",
+        "category"    : "mains, all"
+    },
+
+    {
+        "id" : 9,
+        "name"        : "Spicy Chicken Pitta Filling",
+        "ingredients" : ["4 Chicken thighs or 2 Large breasts", "1/4 lb Mushrooms", "1 Onion chopped", "1 Garlic clove crushed", "2 tsp harrisa", "1/2 tsp Cajun", "1/4 tsp Ginger", "2 tbsp Sweet chilli", "3 Desert spoons of sour cream", "Chopped jalapenos"],
+        "recipe"      : ["Cook onion until soft, then add garlic and cook for a few minutes", "remove onion and garlic from heat and cook chicken pieces for 6 to 8 minutes", "add cooked garlic and onion, then add the rest of the ingredients all in together", "Serve with flatbreads or tortillas"],
+        "image"       : "https://images.pexels.com/photos/106343/pexels-photo-106343.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "8 mins",
+        "temperature": "N/A",
+        "category"    : "mains, all"
+    },
+
+    {
+        "id" : 10,
+        "name"        : "Cheesey Garlic Bread",
+        "ingredients" : ["1 Baguette", "1/2 Cup butter 115g", "4 Cloves of garlic (minced)", "1/3 cup Spring onion 35g", "1/3 cup Parmesan cheese 35g", "1/3 cup Dutch grated cheese 35g", "1/3 cup cheddar cheese 35g"],
+        "recipe"      : ["Pre-heat oven to gas 6/200deg", "Combine all ingredients except bread and mix until smooth", "Slice baguette in half lengthways and spread mix evenly.", "Place a tray lined with parchment and bake for 15 mins", "Slice, cool and serve."],
+        "image"       : "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "15 mins",
+        "temperature": "Gas 6/200 Deg",
+        "category" : "sides, all"
+    },
+
+    {
+        "id" : 11,
+        "name"        : "Pumpkin Seed Rolls",
+        "ingredients" : ["200g SR white B/Flour", "75g St. Six Seed B/Flour", "Sachet yeast", "5g Salt", "100g Sweet Potato grated", "2 tbsp balsamic vinegar", "50g Pumpkin seeds + extra barley", "50g Feta, crumbled", "Beaten Egg"],
+        "recipe"      : ["Put flour, yeast, salt, sweet potato, balsamic and 130g warm water into a bowl with dough hook, mix briefly", "Add seeds and feta, then knead till pixed.", "Place in oiled bowl then leave until doubled.", "Knock back, dividing into rolls, then place rolls on a lined tray and cover. Allow to rise until doubled.", "Preheat over to gas 7, glaze rolls with egg, sprinkle with seeds and cheese, then cook for 15 mins."],
+        "image"       : "https://images.pexels.com/photos/4047214/pexels-photo-4047214.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "15 mins",
+        "temperature": "Gas 7",
+        "category" : "sides, all"
+    },
+
+    {
+        "id" : 12,
+        "name"        : "Chicken liver pate",
+        "ingredients" : ["1 Small onion", "4-5 Rashers of streaky bacon", "300g Chicken Livers", "3 tbsp Port/Brandy", "80 to 100ml Double Cream", "1/2 tsp Dried parsley", "1/2 tsp Salt", "1/2 tsp Pepper", "1 tbsp Butter"],
+        "recipe"      : [" Cook onion until soft.", "Add bacon and cook for 4 minutes.", "Add Chicken livers and cook until they chance colour.", "Pour in the port/brandy and allow to cook down.", "Add cream, salt, pepper and parsely, then cook until liver is cooked.", "Place in food processor with the butter and process until smooth.", "Push cling wrap down on it and put in fridge for 24 hours."],
+        "image"       : "https://images.pexels.com/photos/1448665/pexels-photo-1448665.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "4 mins",
+        "temperature": "N/A",
+        "category" : "starters, all"
+    },
+
+    {
+        "id" : 13,
+        "name"        : "Mini Quiches",
+        "ingredients" : ["1 Roll of puff pastry/shortcrust", "4oz Strong cheddar", "2 Eggs", "4 oz Double Cream", "Milk (enough that combined with cheese/eggs/double cream to make 12oz)", "4 Rashers of bacon, cooked and chopped", "1 Onion chopped and cooked in microwave"],
+        "recipe"      : ["Grease a 12 hole muffin tin and line with pastry", "Add small amount of bacon, cooked onion and cheese.", "Pour over egg mix to almost full", "Bake in hot oven (200 deg gas 6) for 20 minutes."],
+        "image"       : "https://images.pexels.com/photos/109836/pexels-photo-109836.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time" : "20 mins",
+        "temperature": "Gas 6/200 Deg",
+        "category" : "starters, all"
+    }
+
+    
+
+]
