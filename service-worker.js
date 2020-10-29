@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/grandmascookbook.co.uk/precache-manifest.6298cd086fe378f500e8dabc8ea055f4.js"
+  "/grandmascookbook.co.uk/precache-manifest.d76a3998795e3567b9c619aca4148755.js"
 );
 
 self.addEventListener('message', (event) => {
