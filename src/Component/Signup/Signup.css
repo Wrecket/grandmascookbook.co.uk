@@ -1,4 +1,4 @@
-.Login {
+.Signup {
     margin-top: 10%;
     background-color: white;
     border: 10px solid rgb(136, 156, 136);
@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-.Login__wrap {
+.Signup__wrap {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;

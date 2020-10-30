@@ -7,6 +7,7 @@ import RecipeItemDetails from './Component/RecipeItemDetails/RecipeItemDetails';
 import Footer from './Component/Footer/Footer'
 import Login from './Component/Login/Login';
 import recipes from './Component/data/recipes.json'
+import Signup from './Component/Signup/Signup';
 
 class App extends React.Component {
   
@@ -14,7 +15,8 @@ class App extends React.Component {
     super()
     this.state = {
        recipes : recipes,
-       searchInput: "all"
+       searchInput: "all",
+       signedIn: false
     }
 }
 
@@ -49,6 +51,10 @@ topFunction = () => {
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
+isSinedIn = (bool) => {
+  this.setState({signedIn: bool})
+}
+
 render() {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
@@ -57,10 +63,16 @@ render() {
         <Route 
           path="/" 
           render={() =>
-            <Navbar state={this.state} recipes={this.state.recipes} searchInput={this.state.searchInput} handleSearch={this.handleSearch} />
+            <Navbar state={this.state} isSignedIn={this.isSignedIn} signedIn={this.state.signedIn} recipes={this.state.recipes} searchInput={this.state.searchInput} handleSearch={this.handleSearch} />
           }
           />
-          <Route exact path="/login" component={Login} />
+          <Route 
+          path="/login" 
+          render={() =>
+            <Login isSignedIn={this.isSignedIn} />
+          }
+          />
+          <Route path="/signup" component={Signup} />
           <Route 
           path="/" 
           render={() =>
